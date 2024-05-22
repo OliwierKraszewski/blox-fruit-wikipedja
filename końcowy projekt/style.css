@@ -1,0 +1,39 @@
+h1{
+    display: flex;
+    justify-content: center;
+    background-color:rgb(212, 141, 141);
+    color:rgba(132, 85, 150, 0.293);
+    padding:20px;
+    margin-top:0;
+
+}
+.menu{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   text-align: center;
+   font-size: 180%;
+}
+.dodiv{
+    background-color: rgba(219, 219, 219, 0.906);
+    padding: 50px;
+}
+.menu a{
+    text-decoration: none;
+    color: black;
+}
+.frag{
+    background-color: rgba(219, 219, 219, 0.906);
+    padding: 50px;
+}
+.cena{
+    background-color: rgba(219, 219, 219, 0.906);
+    padding: 50px;
+}
+.youtuberzy{
+    background-color: rgba(219, 219, 219, 0.906);
+    padding: 50px;
+}
+
+    
+
